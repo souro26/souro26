@@ -1,7 +1,5 @@
 #  About Me:
-I’m an open-source contributor focused on simulation systems and reproducible modeling. I work primarily on Mesa, contributing to core components, edge-case handling, and API design discussions.<br>My current focus is strengthening fundamentals in statistics, data analysis, and machine learning — not just using models, but understanding how they behave under real constraints.<br>I’m particularly interested in:<br><br>- Stochastic systems & reproducibility<br>- Agent-based modeling<br>- Clean, scalable API design<br>- Data-driven experimentation
-
-
+I’m an open-source contributor focused on simulation systems and reproducible modeling. My interests are in system design, machine learning, generative and agentic AI, and agent based modelling. Nothing too fancy to say here. 
 ##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/souradeep-roy-0b07b4341) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:souro26.ju@gmail.com) 
 
