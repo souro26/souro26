@@ -1,5 +1,5 @@
 #  About Me:
-I’m an open-source contributor focused on simulation systems and reproducible modeling. My interests are in system design, machine learning, generative and agentic AI, and agent based modelling. Nothing too fancy to say here. 
+I’m an open-source contributor and creator of the library argonx, focused on simulation systems, bayesian arithmetic and large language models. My interests are in system design, machine learning, generative and agentic AI, and agent based modelling. Nothing too fancy to say here. 
 ##  Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/souradeep-roy-0b07b4341) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:souro26.ju@gmail.com) 
 
